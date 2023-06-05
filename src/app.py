@@ -26,5 +26,5 @@ for i in range(a):
     # Voeg de waarde 'b' * 'i' toe aan de array
     numbers.append(b * i)
 
-    # Print de waarde
-    print('[', i, '] ', numbers[i] * 10)
+# Print de waarde
+print('[', i, '] ', numbers[i] * 10)
