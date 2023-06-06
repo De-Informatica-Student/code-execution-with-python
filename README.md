@@ -1,5 +1,7 @@
 # Het Uitvoeren van Code
 
+[Bekijk de video](https://youtu.be/SUmLLKYbMoM)
+
 Code programmeren is vaak vanzelfsprekend, maar is de uitvoer dat ook.
 Bij het uitvoeren van programmacode komt namelijk best nog wel het één en ander kijken.
 Er moeten worden bijgehouden op welke regel de code is,
